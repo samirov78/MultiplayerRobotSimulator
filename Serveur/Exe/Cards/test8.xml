@@ -1,0 +1,16 @@
+<configuration>
+    <CScene CALCULS_PAR_IMAGE="50">
+        <fleche ID="Fleche1" Type="fleche" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="44" Pos_y="0" Pos_z="1" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <ligne Type="ligne" ID="27a4eaf6-a49d-44c6-9ecd-a4cab1b33a8f" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="0" Pos_y="0" Pos_z="0" Redim_x="1" Redim_y="1" Redim_z="1">
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="6.7612388334461908" x="0" y="0" z="1" Pos_x="-25.999999411106124" Pos_y="13.680000350618371" Pos_z="1" Redim_x="15.628691220387921" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-89.060809099600192" x="0" y="0" z="1" Pos_x="-33.682903866187694" Pos_y="8.0571825814561446" Pos_z="1" Redim_x="10.115724010016171" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-2.0247651792348575" x="0" y="0" z="1" Pos_x="-25.867131683051888" Pos_y="2.7266158571687846" Pos_z="1" Redim_x="16.224393888515259" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="88.869309103337343" x="0" y="0" z="1" Pos_x="-17.876300108339386" Pos_y="-3.4525594256471956" Pos_z="1" Redim_x="12.537322846303592" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-0.98211721063128143" x="0" y="0" z="1" Pos_x="-24.812527609005723" Pos_y="-9.603214048913145" Pos_z="1" Redim_x="14.377055414016906" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-70.70995464333177" x="0" y="0" z="1" Pos_x="-33.627705697570534" Pos_y="-4.8294102402630186" Pos_z="1" Redim_x="10.487612222488291" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="18.265436000251185" x="0" y="0" z="1" Pos_x="-27.418023674091437" Pos_y="2.7412432832042826" Pos_z="1" Redim_x="17.476612166669824" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="85.030259510625939" x="0" y="0" z="1" Pos_x="-18.653441050471088" Pos_y="9.9254233152663875" Pos_z="1" Redim_x="9.5450378464712422" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-59.743564040424182" x="0" y="0" z="1" Pos_x="-18.468230112637798" Pos_y="15.07125272502852" Pos_z="1" Redim_x="1.3168825222788527" Redim_y="1" Redim_z="1"/>
+        </ligne>
+    </CScene>
+</configuration>

@@ -1,0 +1,6 @@
+G:\log3900-09\Livrable final\Serveur\Exe\Serveur.exe.config
+G:\log3900-09\Livrable final\Serveur\Exe\Serveur.exe
+G:\log3900-09\Livrable final\Serveur\Exe\Serveur.pdb
+G:\log3900-09\Livrable final\Serveur\Code\Serveur\obj\Release\Server.csprojResolveAssemblyReference.cache
+G:\log3900-09\Livrable final\Serveur\Code\Serveur\obj\Release\Serveur.exe
+G:\log3900-09\Livrable final\Serveur\Code\Serveur\obj\Release\Serveur.pdb

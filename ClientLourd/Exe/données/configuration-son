@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationSon>
+  <messageReceived>false</messageReceived>
+  <messageSent>true</messageSent>
+  <imageSent>false</imageSent>
+  <imageReceived>true</imageReceived>
+  <logIn>true</logIn>
+  <logOut>true</logOut>
+</ConfigurationSon>

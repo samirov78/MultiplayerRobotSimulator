@@ -1,0 +1,31 @@
+﻿  VueOrtho.cpp
+  VueOrbite.cpp
+  Vue.cpp
+  ProjectionPerspective.cpp
+  ProjectionOrtho.cpp
+  Projection.cpp
+  Camera.cpp
+  Utilitaire.cpp
+  son.cpp
+  SegmentDroite2D.cpp
+  Plan3D.cpp
+  OpenGL_VBO.cpp
+  OpenGL_Nuanceur.cpp
+  OpenGL_Programme.cpp
+  OpenGL_Debug.cpp
+  EtatOpenGL.cpp
+  BoiteEnvironnement.cpp
+  AideGL.cpp
+  Noeud.cpp
+  Modele3D.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  Mesh.cpp
+  Materiau.cpp
+  Droite3D.cpp
+  CompteurAffichage.cpp
+  CLectureFichierBinaire.cpp
+  CEcritureFichierBinaire.cpp
+  AideCollision.cpp
+  Génération de code en cours...
+  Utilitaire.vcxproj -> G:\log3900-09\Remise\ClientLourd\TutoEdition\Commun\Utilitaire\x64\Debug\Utilitaire.lib

@@ -1,0 +1,21 @@
+<configuration>
+    <CScene CALCULS_PAR_IMAGE="50">
+        <fleche ID="Fleche1" Type="fleche" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="44" Pos_y="0" Pos_z="1" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <ligne Type="ligne" ID="71b9b2c3-9fc3-4f90-82ee-437a5cef9623" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="0" Pos_y="0" Pos_z="0" Redim_x="1" Redim_y="1" Redim_z="1">
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="35.570512539108456" x="0" y="0" z="1" Pos_x="-22.421874430965559" Pos_y="8.8281249365377317" Pos_z="1" Redim_x="31.695649846441253" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-74.827084917744955" x="0" y="0" z="1" Pos_x="-7.0726478112314712" Pos_y="8.9807800262385946" Pos_z="1" Redim_x="19.419777087558426" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-0.86805146553289358" x="0" y="0" z="1" Pos_x="5.6100799089923932" Pos_y="-0.54428151201717068" Pos_z="1" Redim_x="20.96974594651472" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="33.231711545728587" x="0" y="0" z="1" Pos_x="18.275842840397516" Pos_y="0.72652233201945471" Pos_z="1" Redim_x="5.6168937585511891" Redim_y="1" Redim_z="1"/>
+        </ligne>
+        <mur ID="44385a24-dea1-4042-ab62-e0449153375c" Type="mur" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-11.888658249727488" x="0" y="0" z="1" Pos_x="-29.68749924657461" Pos_y="-11.79687491519644" Pos_z="1" Redim_x="24.270609201468417" Redim_y="1" Redim_z="1"/>
+        <mur ID="ecc2153c-98c9-4fb6-bf93-b1f280e8723c" Type="mur" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="8.2463209624053491" x="0" y="0" z="1" Pos_x="14.218749639148898" Pos_y="-12.734374908457085" Pos_z="1" Redim_x="21.787771972152857" Redim_y="1" Redim_z="1"/>
+        <mur ID="1efd0edf-5979-42fd-a602-f08a02ca0499" Type="mur" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-56.57518929653714" x="0" y="0" z="1" Pos_x="-40.234373978910327" Pos_y="17.109374877006758" Pos_z="1" Redim_x="9.3606660065139344" Redim_y="1" Redim_z="1"/>
+        <poteau ID="efb68c1b-6124-4400-8478-dd862460cfef" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="-28.906249266401595" Pos_y="17.578124873637076" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <poteau ID="af493201-df63-4cad-94de-252b12559b88" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="-19.687499500360001" Pos_y="-6.0156249567558024" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <poteau ID="32950698-c84c-4e31-9b83-811a05e62c9b" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="32.187499183128253" Pos_y="-16.953124878129984" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <poteau ID="df91b6b1-229f-407f-b8c0-f663161dbca0" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="-43.749998889688896" Pos_y="0.39062499719193777" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <ligne Type="ligne" ID="00516351-df2f-4a72-8585-ca8dbc8e6f3e" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="0" Pos_y="0" Pos_z="0" Redim_x="1" Redim_y="1" Redim_z="1">
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-33.213696458163106" x="0" y="0" z="1" Pos_x="18.949999968232582" Pos_y="12.000000024586917" Pos_z="1" Redim_x="36.69468624331887" Redim_y="1" Redim_z="1"/>
+        </ligne>
+    </CScene>
+</configuration>

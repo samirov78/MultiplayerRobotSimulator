@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+  <profile>
+    <username>admin</username>
+    <firstName>admin</firstName>
+    <lastName>admin</lastName>
+    <email>projet3poly2017@gmail.com</email>
+	<image>DB/Profiles/abdel.png</image>
+    <isAdmin>true</isAdmin>
+  </profile>
+  <profile>
+    <username>abdel</username>
+    <firstName>abdellatif</firstName>
+    <lastName>amrani</lastName>
+    <email>abdelamrani@outlook.com</email>
+    <isAdmin>false</isAdmin>
+    <image>DB/Profiles/abdel.png</image>
+  </profile>
+  <profile>
+    <username>said</username>
+    <firstName>essaid</firstName>
+    <lastName>djoudi</lastName>
+    <isAdmin>true</isAdmin>
+  </profile>
+  <profile>
+    <username>amrani</username>
+    <firstName>ali</firstName>
+    <lastName>amran</lastName>
+    <email>abdelamrani@hotmail.com</email>
+    <isAdmin>true</isAdmin>
+    <image>DB/Profiles/amrani.png</image>
+  </profile>
+  <profile>
+    <username>samir</username>
+    <firstName>samirel</firstName>
+    <lastName>El kawkabi</lastName>
+    <isAdmin>true</isAdmin>
+  </profile>
+  <profile>
+    <username>identifiant</username>
+    <firstName>prenom</firstName>
+    <lastName>nom</lastName>
+    <email>abdelamrani@outlook.com</email>
+    <isAdmin>true</isAdmin>
+  </profile>
+</profiles>

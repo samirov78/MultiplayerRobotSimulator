@@ -1,0 +1,314 @@
+html
+  head
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='/lib/w3.css')
+    link(rel='stylesheet', type='text/css', href='style/style.css')
+    script(type='text/javascript', src='https://code.jquery.com/jquery-2.1.4.min.js')
+    script(type='text/javascript', src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js')
+    script(type='text/javascript', src='style/java.js')
+    script(type='text/javascript', src='style/doudou.js')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+  body
+    figure.snip1336
+      img(src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample87.jpg', alt='sample87')
+      figcaption
+        img#im.profile(src='nou.jpg', alt='profile-sample4')
+        h2#demo1
+          | Hans Down 
+          span Engineer
+        p Aime-toi et tu auras des amis.
+        |  
+        a#myBtn.follow(href='#') informations de l&apos;utilisateur
+        |  
+        a#myBtn2.info(href='#') statistiques des utilisations
+    figure.snip1336.hover
+      img(src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample74.jpg', alt='sample74')
+      figcaption
+        img.profile(id='', src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample2.jpg', alt='profile-sample2')
+        h2(id='demo1.1')
+          | Wisteria Widget
+          span Photographer
+        p La douceur du miel ne console pas de la piq&ucirc;re de l&apos;abeille.
+        |  
+        a#myBtn3.follow(href='#') informations de l&apos;utilisateur
+        |  
+        a#myBtn4.info(href='#') statistiques des utilisations
+    figure.snip1336
+      img(src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample69.jpg', alt='sample69')
+      figcaption
+        img.profile(id='', src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample5.jpg', alt='profile-sample5')
+        h2(id='demo1.2')
+          | Desmond Eagle
+          span Accountant
+        p Il n&apos;y a pas de grenouille qui ne trouve son crapaud..
+        |  
+        a#myBtn5.follow(href='#') informations de l&apos;utilisateur
+        |  
+        a#myBtn6.info(href='#') statistiques des utilisations
+    figure.snip1336
+      img(src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample69.jpg', alt='sample69')
+      figcaption
+        img.profile(id='', src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample5.jpg', alt='profile-sample5')
+        h2(id='demo1.3')
+          | Desmond Eagle
+          span Accountant
+        p On ne peut emp&ecirc;cher le chien d&apos;aboyer, ni le menteur de mentir..
+        |  
+        a#myBtn7.follow(href='#') informations de l&apos;utilisateur
+        |  
+        a#myBtn8.info(href='#') statistiques des utilisations
+    #myModal.modal.fade(role='dialog')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  Informations de l&apos;utilisateur
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='id1')
+                  span.glyphicon.glyphicon-flag
+                  |  Identifiant de l&apos;utilisateur :
+                  p#demo
+              .form-group
+                label(for='nom')
+                  span.glyphicon.glyphicon-user
+                  |  Nom de l&apos;utilisateur :
+                  p#demo2
+              .form-groupe
+                label(for='email')
+                  span.glyphicon.glyphicon-envelope
+                  |  &Eacute;mail de l&apos;utilisateur :
+                  p#demo3
+              .form-groupe
+                label(for='isAdmine')
+                  span.glyphicon.glyphicon-eye-open
+                  |  is Admine :
+                  p#demo4
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal2.modal.fade(role='dialog')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  statistiques des utilisations
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='crtmod')
+                  span.glyphicon.glyphicon-pencil
+                  |  Cartes modifi&eacute;es
+                  p#stat1
+              .form-group
+                label(for='crtpub')
+                  span.glyphicon.glyphicon-picture
+                  |  Cartes publi&eacute;es
+                  p#stat2
+              .form-group
+                label(for='nbsim')
+                  span.glyphicon.glyphicon-piggy-bank
+                  |  Nombre de simulations
+                  p#stat3
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal11.modal.fade(role='dialogs')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  Informations de l&apos;utilisateur
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='id1')
+                  span.glyphicon.glyphicon-flag
+                  |  Identifiant de l&apos;utilisateur :
+                  p(id='demo0.1')
+              .form-group
+                label(for='nom')
+                  span.glyphicon.glyphicon-user
+                  |  Nom de l&apos;utilisateur :
+                  p(id='demo2.1')
+              .form-groupe
+                label(for='email')
+                  span.glyphicon.glyphicon-envelope
+                  |  &Eacute;mail de l&apos;utilisateur :
+                  p(id='demo3.1')
+              .form-groupe
+                label(for='isAdmine')
+                  span.glyphicon.glyphicon-eye-open
+                  |  is Admine :
+                  p(id='demo4.1')
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal21.modal.fade(role='dialogsg')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  statistiques des utilisations
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='crtmod')
+                  span.glyphicon.glyphicon-pencil
+                  |  Cartes modifi&eacute;es
+                  p(id='stat1.1')
+              .form-group
+                label(for='crtpub')
+                  span.glyphicon.glyphicon-picture
+                  |  Cartes publi&eacute;es
+                  p(id='stat2.1')
+              .form-group
+                label(for='nbsim')
+                  span.glyphicon.glyphicon-piggy-bank
+                  |  Nombre de simulations
+                  p(id='stat3.1')
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal12.modal.fade(role='dialogsk')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  Informations de l&apos;utilisateur
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='id1')
+                  span.glyphicon.glyphicon-flag
+                  |  Identifiant de l&apos;utilisateur :
+                  p(id='demo0.2')
+              .form-group
+                label(for='nom')
+                  span.glyphicon.glyphicon-user
+                  |  Nom de l&apos;utilisateur :
+                  p(id='demo2.2')
+              .form-groupe
+                label(for='email')
+                  span.glyphicon.glyphicon-envelope
+                  |  &Eacute;mail de l&apos;utilisateur :
+                  p(id='demo3.2')
+              .form-groupe
+                label(for='isAdmine')
+                  span.glyphicon.glyphicon-eye-open
+                  |  is Admine :
+                  p(id='demo4.2')
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal22.modal.fade(role='dialogsgk')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  statistiques des utilisations
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='crtmod')
+                  span.glyphicon.glyphicon-pencil
+                  |  Cartes modifi&eacute;es
+                  p(id='stat1.2')
+              .form-group
+                label(for='crtpub')
+                  span.glyphicon.glyphicon-picture
+                  |  Cartes publi&eacute;es
+                  p(id='stat2.2')
+              .form-group
+                label(for='nbsim')
+                  span.glyphicon.glyphicon-piggy-bank
+                  |  Nombre de simulations
+                  p(id='stat3.2')
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal13.modal.fade(role='dialogski')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  Informations de l&apos;utilisateur
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='id1')
+                  span.glyphicon.glyphicon-flag
+                  |  Identifiant de l&apos;utilisateur :
+                  p(id='demo0.3')
+              .form-group
+                label(for='nom')
+                  span.glyphicon.glyphicon-user
+                  |  Nom de l&apos;utilisateur :
+                  p(id='demo2.3')
+              .form-groupe
+                label(for='email')
+                  span.glyphicon.glyphicon-envelope
+                  |  &Eacute;mail de l&apos;utilisateur :
+                  p(id='demo3.3')
+              .form-groupe
+                label(for='isAdmine')
+                  span.glyphicon.glyphicon-eye-open
+                  |  is Admine :
+                  p(id='demo4.3')
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel
+    #myModal23.modal.fade(role='dialogsgki')
+      .modal-dialog
+        .modal-content
+          .modal-header(style='padding:35px 50px;')
+            button.close(type='button', data-dismiss='modal') &times;
+            h4
+              span.glyphicon.glyphicon-lock
+              |  statistiques des utilisations
+          .modal-body(style='padding:40px 50px;')
+            form(role='form')
+              .form-group
+                label(for='crtmod')
+                  span.glyphicon.glyphicon-pencil
+                  |  Cartes modifi&eacute;es
+                  p(id='stat1.3')
+              .form-group
+                label(for='crtpub')
+                  span.glyphicon.glyphicon-picture
+                  |  Cartes publi&eacute;es
+                  p(id='stat2.3')
+              .form-group
+                label(for='nbsim')
+                  span.glyphicon.glyphicon-piggy-bank
+                  |  Nombre de simulations
+                  p(id='stat3.3')
+          .modal-footer
+            button.btn.btn-danger.btn-default.pull-left(type='submit', data-dismiss='modal')
+              span.glyphicon.glyphicon-remove
+              |  Cancel

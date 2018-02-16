@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Application">
+      <UniqueIdentifier>{4a324388-bea8-423a-bc50-ccdf2fef915c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interface">
+      <UniqueIdentifier>{c6bd3f9c-d667-48a1-8aae-154a5de4c711}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Configuration">
+      <UniqueIdentifier>{d4ef3242-13cf-45e7-a434-bdabacf4a324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Arbre">
+      <UniqueIdentifier>{7472a721-0254-4bca-944a-d230f0ffb5ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Arbre\Usines">
+      <UniqueIdentifier>{ad5ae0d0-5415-47db-a98a-9a074962b455}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Arbre\Noeuds">
+      <UniqueIdentifier>{673b2491-ee8e-448a-877c-dcffa5036e36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Application">
+      <UniqueIdentifier>{c845f3fe-60ec-4b69-870e-1b94806be78e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Interface">
+      <UniqueIdentifier>{6c8e2c48-de9f-4091-bc76-fed408577f6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Configuration">
+      <UniqueIdentifier>{737950f1-92e0-48cc-99df-484ed3bae29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Arbre">
+      <UniqueIdentifier>{824db547-4831-4bb7-b7f2-70d05299ed49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Arbre\Usines">
+      <UniqueIdentifier>{2d7e83f6-88e0-4835-a145-53a4c662829e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Arbre\Noeuds">
+      <UniqueIdentifier>{adf7252c-e0c2-4e7e-9194-a254f846e61d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Tests">
+      <UniqueIdentifier>{0dbbcffd-49b5-4878-a09c-22650c7a5093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Visiteur">
+      <UniqueIdentifier>{1bc1f9ce-550b-4de5-909e-b5a4ed5a5d1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Visiteur">
+      <UniqueIdentifier>{e17cb97a-71bc-498a-9ecb-55636d86d8d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Comportement">
+      <UniqueIdentifier>{df04200c-5ba5-451c-a224-2b82dbe5ba92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Comportement">
+      <UniqueIdentifier>{ed2a2553-12ee-4188-8e9b-d58dd9fe4148}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application\FacadeModele.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Configuration\ConfigScene.cpp">
+      <Filter>Source Files\Configuration</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\ArbreRendu.cpp">
+      <Filter>Source Files\Arbre</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\ArbreRenduINF2990.cpp">
+      <Filter>Source Files\Arbre</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudAbstrait.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudComposite.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudAraignee.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudConeCube.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface\FacadeInterfaceNative.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudRobot.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurDeplacerSelection.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudPoteau.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudTable.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudMur.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudFleche.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurVersXML.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurRotateSelection.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurScaleSelection.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudLigne.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudSegment.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\visiteurSelectElastique.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurDupliquerSelection.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurInitialisationPosition.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\visiteurSelectObjet.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurInitialisationScale.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurDeterminerCentreSelection.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurVerifierDeplacementDuplication.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurAnnulerRotationSelection.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\visiteurRotationUnObjet.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudRoueDroite.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbre\Noeuds\NoeudRoueGauche.cpp">
+      <Filter>Source Files\Arbre\Noeuds</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\Balayage180Degres.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\Defaut.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\EvitementParDroite.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\EvitementParGauche.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\SuiviDeLigne.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurDetectionNoeud.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\Avancer.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Visiteur\VisiteurVerifierCollision.cpp">
+      <Filter>Source Files\Visiteur</Filter>
+    </ClCompile>
+    <ClCompile Include="Configuration\Profil.cpp">
+      <Filter>Source Files\Configuration</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\SL_DeviationVersDroite.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\SL_DeviationVersGauche.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\DeviationVersDroite.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\DeviationVersGauche.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\balayage180etape2.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\balayage180etapeFinale.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+    <ClCompile Include="Configuration\Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Comportement\Freeze.cpp">
+      <Filter>Source Files\Comportement</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application\FacadeModele.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\ArbreRendu.h">
+      <Filter>Header Files\Arbre</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\ArbreRenduINF2990.h">
+      <Filter>Header Files\Arbre</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Usines\UsineNoeud.h">
+      <Filter>Header Files\Arbre\Usines</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudAbstrait.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudComposite.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudAraignee.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudConeCube.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\ConfigSceneTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\NoeudAbstraitTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\BancTests.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface\FacadeInterfaceNative.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudTypes.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudRobot.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurAbstrait.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurDeplacerSelection.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudPoteau.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudTable.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudMur.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudFleche.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurVersXML.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\visiteurSelectObjet.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurRotateSelection.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurScaleSelection.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudLigne.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudSegment.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\visiteurSelectElastique.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurDupliquerSelection.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurInitialisationPosition.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurInitialisationScale.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurVerifierDeplacementDuplication.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurAnnulerRotationSelection.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\visiteurRotationUnObjet.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudRoueDroite.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudRoueGauche.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbre\Noeuds\NoeudRoue.h">
+      <Filter>Header Files\Arbre\Noeuds</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\Balayage180Degres.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\ComportementAbstait.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\ComportementTypes.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\Defaut.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\EvitementParDroite.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\EvitementParGauche.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\SuiviDeLigne.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\FacadeModeleTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\NoeudCompositeTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurDetectionNoeud.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\Avancer.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Visiteur\VisiteurVerifierCollision.h">
+      <Filter>Header Files\Visiteur</Filter>
+    </ClInclude>
+    <ClInclude Include="NoeudRobotTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\SL_DeviationVersDroite.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\SL_DeviationVersGauche.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\DeviationVersDroite.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\DeviationVersGauche.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\NoeudPoteauTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\AideCollisionTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\ProjectionOrthoTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\balayage180etapeFinale.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\balayage180etape2.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration\Profil.h">
+      <Filter>Header Files\Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration\ConfigScene.h">
+      <Filter>Header Files\Configuration</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration\Debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests\UtilitaireTest.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Comportement\Freeze.h">
+      <Filter>Header Files\Comportement</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

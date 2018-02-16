@@ -1,0 +1,70 @@
+G:\log3900-09\Livrable2\ClientLourd\Code\Exe\InterfaceGraphique.exe.config
+G:\log3900-09\Livrable2\ClientLourd\Code\Exe\InterfaceGraphique.exe
+G:\log3900-09\Livrable2\ClientLourd\Code\Exe\InterfaceGraphique.pdb
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csprojResolveAssemblyReference.cache
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Aide.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.ChatAdministration.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.ConfigurationEnLigne.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Configuration.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.CreateProfile.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Edition.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Clavardage.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.EnregistrerDistant.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Login.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.MenuPrincipale.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.ProfileSettings.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Properties.Resources.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Simulation.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csproj.GenerateResource.Cache
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.exe
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.pdb
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.OpenCard.resources
+G:\log3900-09\Livrable2\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.RateCard.resources
+G:\log3900-09\Remise\ClientLourd\Code\Exe\InterfaceGraphique.exe.config
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.exe
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.pdb
+G:\log3900-09\Remise\ClientLourd\Code\Exe\InterfaceGraphique.exe
+G:\log3900-09\Remise\ClientLourd\Code\Exe\InterfaceGraphique.pdb
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csprojResolveAssemblyReference.cache
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Aide.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.ChatAdministration.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.ConfigurationEnLigne.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Configuration.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.CreateProfile.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Edition.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Clavardage.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.EnregistrerDistant.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Login.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.MenuPrincipale.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.OpenCard.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.ProfileSettings.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.RateCard.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Properties.Resources.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Simulation.resources
+G:\log3900-09\Remise\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csproj.GenerateResource.Cache
+G:\log3900-09\Remise\ClientLourd\Exe\InterfaceGraphique.exe.config
+G:\log3900-09\Remise\ClientLourd\Exe\InterfaceGraphique.exe
+G:\log3900-09\Remise\ClientLourd\Exe\InterfaceGraphique.pdb
+G:\log3900-09\Livrable final\ClientLourd\Exe\InterfaceGraphique.exe.config
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.exe
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.pdb
+G:\log3900-09\Livrable final\ClientLourd\Exe\InterfaceGraphique.exe
+G:\log3900-09\Livrable final\ClientLourd\Exe\InterfaceGraphique.pdb
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csprojResolveAssemblyReference.cache
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Aide.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.ChatAdministration.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.ConfigurationEnLigne.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Configuration.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.CreateProfile.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Edition.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Clavardage.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.EnregistrerDistant.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Login.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.MenuPrincipale.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.OpenCard.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.ProfileSettings.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Forms.RateCard.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Properties.Resources.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Simulation.resources
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csproj.GenerateResource.Cache
+G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.PanelChat.resources

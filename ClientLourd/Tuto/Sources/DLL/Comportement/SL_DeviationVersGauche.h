@@ -1,0 +1,40 @@
+///////////////////////////////////////////////////////////////////////////////
+/// @file DeviationVersGauche.h
+/// @author Equipe 11
+/// @date 2016-02-20
+/// @version 1.0
+///
+/// @addtogroup inf2990 INF2990
+/// @{
+///////////////////////////////////////////////////////////////////////////////
+#pragma once
+#include "ComportementAbstait.h"
+//class NoeudRobot;
+
+///////////////////////////////////////////////////////////////////////////
+/// @class Defaut
+/// @brief Classe qui implemente le comportement concret soit le comportement
+/// DeviationVersGauche. Application du patron etat.
+/// 
+/// @author Equipe 11
+/// @date 2016-02-25
+///////////////////////////////////////////////////////////////////////////
+
+class SL_DeviationVersGauche : public ComportementAbstrait
+{
+public:
+	/// Constructeur par défaut.
+	SL_DeviationVersGauche(NoeudRobot * contexte);
+	/// Destructeur.
+	~SL_DeviationVersGauche() = default;
+	/// Effectuer un comportement.
+	void executerComportement();
+private:
+	///Le robot en question.
+	NoeudRobot * contexte_;
+
+};
+
+///////////////////////////////////////////////////////////////////////////////
+/// @}
+///////////////////////////////////////////////////////////////////////////////

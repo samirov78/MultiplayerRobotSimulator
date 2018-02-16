@@ -1,0 +1,10 @@
+<configuration>
+    <CScene CALCULS_PAR_IMAGE="50">
+        <fleche ID="" Type="fleche" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="44" Pos_y="0" Pos_z="1" Redim_x="1" Redim_y="1" Redim_z="1" Depart_x="0" Depart_y="0" Depart_z="0" Fin_x="0" Fin_y="0" Fin_z="0"/>
+        <poteau ID="P1" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="-23.400001551658022" Pos_y="5.6500000115763402" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1" Depart_x="0" Depart_y="0" Depart_z="0" Fin_x="0" Fin_y="0" Fin_z="0"/>
+        <poteau ID="P2" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="7.9000005238503537" Pos_y="9.7500000199768682" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1" Depart_x="0" Depart_y="0" Depart_z="0" Fin_x="0" Fin_y="0" Fin_z="0"/>
+        <poteau ID="P3" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="1.3000000862032179" Pos_y="-7.3500000150594849" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1" Depart_x="0" Depart_y="0" Depart_z="0" Fin_x="0" Fin_y="0" Fin_z="0"/>
+        <mur ID="M5" Type="mur" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="74.212380256608185" x="0" y="0" z="1" Pos_x="-31.450002085454905" Pos_y="1.750000003585594" Pos_z="1" Redim_x="34.917187982357063" Redim_y="1" Redim_z="1" Depart_x="-36.200002400428218" Depart_y="-15.050000030836088" Depart_z="-14" Fin_x="-26.700001770481588" Fin_y="18.550000038007276" Fin_z="-14"/>
+        <mur ID="M6" Type="mur" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-3.9989735878014714" x="0" y="0" z="1" Pos_x="5.3500003547594215" Pos_y="16.000000032782555" Pos_z="1" Redim_x="32.980299325070852" Redim_y="1" Redim_z="1" Depart_x="-11.100000736042908" Depart_y="17.150000035138802" Depart_z="-14" Fin_x="21.800001445561751" Fin_y="14.85000003042631" Fin_z="-14"/>
+    </CScene>
+</configuration>

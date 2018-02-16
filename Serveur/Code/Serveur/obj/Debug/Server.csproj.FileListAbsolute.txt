@@ -1,0 +1,18 @@
+G:\log3900-09\Livrable2\Serveur\Exe\Serveur.exe.config
+G:\log3900-09\Livrable2\Serveur\Exe\Serveur.exe
+G:\log3900-09\Livrable2\Serveur\Exe\Serveur.pdb
+G:\log3900-09\Livrable2\Serveur\Code\Serveur\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\log3900-09\Livrable2\Serveur\Code\Serveur\obj\Debug\Serveur.exe
+G:\log3900-09\Livrable2\Serveur\Code\Serveur\obj\Debug\Serveur.pdb
+G:\log3900-09\Remise\Serveur\Exe\Serveur.exe.config
+G:\log3900-09\Remise\Serveur\Code\Serveur\obj\Debug\Serveur.exe
+G:\log3900-09\Remise\Serveur\Code\Serveur\obj\Debug\Serveur.pdb
+G:\log3900-09\Remise\Serveur\Code\Serveur\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\log3900-09\Remise\Serveur\Exe\Serveur.exe
+G:\log3900-09\Remise\Serveur\Exe\Serveur.pdb
+G:\log3900-09\Livrable final\Serveur\Exe\Serveur.exe.config
+G:\log3900-09\Livrable final\Serveur\Code\Serveur\obj\Debug\Serveur.exe
+G:\log3900-09\Livrable final\Serveur\Code\Serveur\obj\Debug\Serveur.pdb
+G:\log3900-09\Livrable final\Serveur\Exe\Serveur.exe
+G:\log3900-09\Livrable final\Serveur\Exe\Serveur.pdb
+G:\log3900-09\Livrable final\Serveur\Code\Serveur\obj\Debug\Server.csprojResolveAssemblyReference.cache

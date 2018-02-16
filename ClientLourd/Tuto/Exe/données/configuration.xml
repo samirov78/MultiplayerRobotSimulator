@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <controle avancer="W" reculer="S" rotation-antihoraire="A" rotation-horaire="D" mode="Space" />
+  <debougage>
+    <console valeur="oui" changement-comportement="oui" activation-desactivation-eclairage="oui" />
+    <alteration-effets-visuels valeur="oui" identification-zones-capteurs="oui" />
+  </debougage>
+</configuration>

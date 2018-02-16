@@ -1,0 +1,9 @@
+﻿  FacadeModele.cpp
+g:\log3900-09\livrable final\clientlourd\code\sources\dll\application\../Visiteur/visiteurDupliquerSelection.h(43): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+Application\FacadeModele.cpp(3763): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+Application\FacadeModele.cpp(3764): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+Application\FacadeModele.cpp(4160): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+Application\FacadeModele.cpp(4275): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+Application\FacadeModele.cpp(4339): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Noyau.vcxproj -> G:\log3900-09\Livrable final\ClientLourd\Code\Sources\DLL\..\..\..\Exe\Noyau.dll
+  Noyau.vcxproj -> ..\..\..\Exe\Noyau.pdb (Full PDB)

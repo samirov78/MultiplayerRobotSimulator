@@ -1,0 +1,15 @@
+<configuration>
+    <CScene CALCULS_PAR_IMAGE="50">
+        <fleche ID="Fleche1" Type="fleche" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="42" Pos_y="0" Pos_z="1" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <mur ID="539bfc46-e993-4b21-ad59-a3f282acb0c6" Type="mur" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="33.589016971601559" x="0" y="0" z="1" Pos_x="-21.899999963287264" Pos_y="4.8500000099372116" Pos_z="1" Redim_x="31.451550024429423" Redim_y="1" Redim_z="1"/>
+        <ligne Type="ligne" ID="643b52aa-7a6b-49f0-a9af-a0253c70a73d" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="0" Pos_x="0" Pos_y="0" Pos_z="0" Redim_x="1" Redim_y="1" Redim_z="1">
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="15.191808529197118" x="0" y="0" z="1" Pos_x="-9.5499999839905634" Pos_y="-5.0500000103469951" Pos_z="1" Redim_x="39.686899545380065" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="1.2902273568653138" x="0" y="0" z="1" Pos_x="20.654963605715416" Pos_y="0.3989856683927327" Pos_z="1" Redim_x="22.295725441170053" Redim_y="1" Redim_z="1"/>
+            <segment ID="" Type="segment" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="-37.110382294420269" x="0" y="0" z="1" Pos_x="24.288235288721559" Pos_y="6.3332430203094221" Pos_z="1" Redim_x="19.281454751447086" Redim_y="1" Redim_z="1"/>
+        </ligne>
+        <poteau ID="4cd55b0b-9c77-4c95-9ac5-aaf6932a8495" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="-37.899999936465179" Pos_y="15.650000032065437" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <poteau ID="6f743d07-356f-41ef-a0ae-697bf4f19cec" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="-38.999999934621151" Pos_y="-14.450000029606743" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <poteau ID="707dcea1-26fe-4aef-ac27-40702168c51a" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="13.699999977033581" Pos_y="5.4500000111665585" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+        <poteau ID="306b7a5b-4dee-466e-ac57-05c5e226c93d" Type="poteau" Affiche="1" Enregistrable="1" Selectionnable="1" Angle="0" x="0" y="0" z="1" Pos_x="13.899999976698311" Pos_y="-14.350000029401853" Pos_z="5" Redim_x="1" Redim_y="1" Redim_z="1"/>
+    </CScene>
+</configuration>

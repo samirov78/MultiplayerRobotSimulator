@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+  <profile>
+    <id>abdel0000ggg</id>
+    <firstName>abdel</firstName>
+    <lastName>abdel</lastName>
+    <email>abdelamrani@outlook.com</email>
+    <isAdmin>false</isAdmin>
+    <image>../bienvenue_003.gif</image>
+    <Creation>
+      <card>carte2</card>
+      <card>carte2</card>
+	  <card>carte3</card>
+	  <card>carte4</card>
+    </Creation>
+    <modification>
+      <card>carte1</card>
+      <card>carte3</card>
+    </modification>
+  </profile>
+  
+  <profile>
+    <id>amrani</id>
+    <firstName>abdel</firstName>
+    <lastName>abdel</lastName>
+    <email>abdelamrani@outlook.com</email>
+    <isAdmin>true</isAdmin>
+    <image>DB/Profiles/abdel.png</image>
+    <Creation>
+      <card>carte2</card>
+      <card>carte2</card>
+    </Creation>
+    <modification>
+      <card>carte2</card>
+      <card>carte3</card>
+    </modification>
+  </profile>
+  
+  
+  <profile>
+    <id>amraniiiiiiiiii</id>
+    <firstName>abdellllllllllll</firstName>
+    <lastName>abdellllllllllll</lastName>
+    <email>lllllllabdelamrani@outlook.com</email>
+    <isAdmin>true</isAdmin>
+    <image>DB/Profiles/abdel.png</image>
+    <Creation>
+      <card>carte2llllll</card>
+      <card>carte2lllllll</card>
+    </Creation>
+    <modification>
+      <card>carte2lllllll</card>
+      <card>cartellllllll3</card>
+    </modification>
+  </profile>
+  
+    <profile>
+    <id>said</id>
+    <firstName>said</firstName>
+    <lastName>said</lastName>
+    <email>said</email>
+    <isAdmin>said</isAdmin>
+    <image>said</image>
+    <Creation>
+      <card>said</card>
+      <card>said</card>
+    </Creation>
+    <modification>
+      <card>said</card>
+      <card>said</card>
+    </modification>
+  </profile>
+  
+  
+  
+</profiles>
+</xml>
