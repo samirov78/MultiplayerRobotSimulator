@@ -68,3 +68,4 @@ G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Rel
 G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.Simulation.resources
 G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.csproj.GenerateResource.Cache
 G:\log3900-09\Livrable final\ClientLourd\Code\Sources\InterfaceGraphique\obj\Release\InterfaceGraphique.PanelChat.resources
+C:\Users\Samir\Desktop\Projet3\MultiplayerRobotSimulator\ClientLourd\Exe\InterfaceGraphique.exe.config
